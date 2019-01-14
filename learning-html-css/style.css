@@ -1,0 +1,28 @@
+h1{
+	font-size: 18px;
+	font-family: Linux Libertine;
+	color: #4B0082; //indigo
+	line-height: 2;
+}
+
+h2{
+	font-size: 14px;
+	font-family: Linux Libertine;
+	color: #4B0082; //indigo
+	line-height: 2;
+}
+
+p{
+	font-size: 12px;
+	font-family: Linux Libertine;
+	color: #4B0082; //indigo
+	line-height: 8pt; //interligne de 8 points
+}
+
+q{
+	font-size: 18px;
+	font-family: Linux Libertine;
+	color: #4B0082; //indigo
+	line-height: 8pt; //interligne de 8 points
+}
+
