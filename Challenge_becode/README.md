@@ -25,7 +25,7 @@
 
 <h2>Guides markdown</h2>
 <p>
-	Faire un tableau en markdown: (tiré de <a href="https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/">ce guide</a>)
+	Faire un tableau en markdown: (tiré de <a target="_blank" href="https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/">ce guide</a>)
 </p>
 <p>
 	L’idée globale est de “dessiner” des colonnes en les entourant avec des pipes | (alt-gr+1). Le nombre de colonnes est défini dans la première ligne du tableau et vous devez pour chaque ligne avoir le même nombre de colonnes, même si certaines sont vides.
