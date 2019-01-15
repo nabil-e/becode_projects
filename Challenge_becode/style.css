@@ -5,16 +5,24 @@ body {
 	background-color: #A7A4C3;
 }
 
-h1 {
+header{
+	background-color: #D0D02F;
+}
 
+footer {
+	background-color: #D0D02F;
+}
+
+h1 {
+	font-size: x-large;
 }
 
 h2 {
-
+	font-size: large;
 }
 
 p {
-
+	font-size: medium;
 }
 
 em {
@@ -36,10 +44,12 @@ img{
 
 figcaption {
 	padding-top: 7px;
+	font-size: x-small;
 }
 
 blockquote {
-	width: 60%;
+	font-size: large;
+	//width: 60%;
 	margin: 0 auto;
 	background-color: #D0D02F;
 }
