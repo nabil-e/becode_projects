@@ -16,6 +16,7 @@
 
 <ul><h2>Liste des participants :</h2>
 	<li>Matthieu</li>
+	<li>Nabil</li>
 </ul>
 
 <h2>Proposition de mode de fonctionnement</h2>
