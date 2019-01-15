@@ -1,7 +1,8 @@
 body {
 	width: 90%;
 	margin-left: 5%;
-	margin-right: 5%;
+	margin-right: 5%; // peut être réécrit en margin: 0 5%;
+	background-color: #A7A4C3;
 }
 
 h1 {
@@ -34,5 +35,11 @@ img{
 }
 
 figcaption {
+	padding-top: 7px;
+}
 
+blockquote {
+	width: 60%;
+	margin: 0 auto;
+	background-color: #D0D02F;
 }
