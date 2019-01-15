@@ -1,7 +1,7 @@
 body {
 	width: 90%;
 	margin-left: 5%;
-	margin-right: 5%
+	margin-right: 5%;
 }
 
 h1 {
@@ -25,7 +25,9 @@ li {
 }
 
 figure{
-
+	width: 80%;
+	margin-right:10%;
+	margin-left: 10%;
 }
 
 figcaption {
